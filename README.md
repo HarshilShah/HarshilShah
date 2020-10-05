@@ -1,6 +1,6 @@
 ### Hi, I’m Harshil! 👋🏽
 
-I’m an iOS engineer living in Mumbai, India.
+I’m an iOS engineer living in Mumbai, India and I am absolutely the best ever.
 
 I’m currently looking for full-time work opportunities. If youʼd like to talk, please feel free to [email me](mailto:hello@harshil.net "Send an email to hello@harshil.net").
 
