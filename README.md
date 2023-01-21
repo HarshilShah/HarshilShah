@@ -2,4 +2,4 @@
 
 I’m an iOS engineer living in Mumbai, India.
 
-You can follow me [on Twitter](https://twitter.com/harshil "Follow @harshil on Twitter") and [read my blog](https://harshil.net).
+You can follow me <a rel="me" href="https://mastodon.social/@harshil">on Mastodon</a> and [read my blog](https://harshil.net).
